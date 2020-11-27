@@ -1,0 +1,18 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "Starting 26/11/20 good lucky",
+  "main": "app.js",
+  "scripts": {
+    "test": "test/test-app.js"
+  },
+  "author": "Mariano Torres",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.1.1"
+  },
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.6"
+  }
+}
